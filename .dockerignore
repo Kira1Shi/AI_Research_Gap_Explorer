@@ -1,0 +1,9 @@
+.git
+.gitignore
+.venv
+**/__pycache__
+**/.pytest_cache
+task
+docs
+research_explorer_starter
+scripts
